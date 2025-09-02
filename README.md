@@ -17,11 +17,11 @@ Welcome to the **Free Hacking Books** repository! Here, you'll find a curated li
 | **9. Practical Malware Analysis: The Hands-On Guide** | This book provides insights into analyzing and understanding malware, including reverse engineering techniques and tools. | [Read Here!!](https://www.kea.nu/files/textbooks/humblesec/practicalmalwareanalysis.pdf) |
 | **10. RTFM: Red Team Field Manual** | A quick reference guide for red teamers, covering tools and techniques for penetration testing. | [Read Here!!](https://kolegite.com/EE_library/books_and_lectures/%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D1%81%D0%B8%D0%B3%D1%83%D1%80%D0%BD%D0%BE%D1%81%D1%82/RTFM%20Red%20Team%20Field%20Manual%20v2%20--%20Ben%20Clark%20%26%20Nick%20Downer.pdf) |
 | **11. Hash Crack: Password Cracking Manual** | A guide to password cracking techniques and tools, focusing on real-world applications. | [Read Here!!](https://www.amazon.in/Hash-Crack-Password-Cracking-Manual/dp/1793458618) |
-| **12. Metasploit: The Penetration Tester's Guide** | This book teaches how to use the Metasploit Framework for penetration testing, covering various exploits and techniques to assess security. | [Read [Here](https://www.kea.nu/files/textbooks/humblesec/metasploit_apenetrationtestersguide.pdf) |
+| **12. Metasploit: The Penetration Tester's Guide** | This book teaches how to use the Metasploit Framework for penetration testing, covering various exploits and techniques to assess security. | [Read Here](https://www.kea.nu/files/textbooks/humblesec/metasploit_apenetrationtestersguide.pdf) |
 | **13. Advanced Penetration Testing** | A guide that covers advanced techniques for penetration testing and security assessments. | [Read Here!!](https://elhacker.info/manuales/Cybersecurity%20Books/Advanced%20Penetration%20Testing%20-%20Hacking%20the%20World_s%20Most%20Secure%20Networks.pdf) |
 | **14. Hacking: A Beginner's Guide to Your First Computer Hack** | A beginner-friendly guide that covers the basics of hacking, including tools, techniques, and ethical considerations. | [Read Here!!](http://repo.darmajaya.ac.id/3933/1/Hacking_%20Beginner%20to%20Expert%20Guide%20to%20Computer%20Hacking%2C%20Basic%20Security%2C%20and%20Penetration%20Testing%20%28Computer%20Science%20Series%29%20%28%20PDFDrive%20%29%20%281%29.pdf) |
 
 Other [REPO](https://github.com/Pradeep-161) 
-|---Connect--| 
+| Connect | 
 | [Email](mailto:pradeep16@duck.com) | [Telegram ](https://t.me/Network_16) |
 
