@@ -22,11 +22,6 @@ Welcome to the **Free Hacking Books** repository! Here, you'll find a curated li
 | **14. Hacking: A Beginner's Guide to Your First Computer Hack** | A beginner-friendly guide that covers the basics of hacking, including tools, techniques, and ethical considerations. | [Read Here!!](http://repo.darmajaya.ac.id/3933/1/Hacking_%20Beginner%20to%20Expert%20Guide%20to%20Computer%20Hacking%2C%20Basic%20Security%2C%20and%20Penetration%20Testing%20%28Computer%20Science%20Series%29%20%28%20PDFDrive%20%29%20%281%29.pdf) |
 
 ## Connect
-
-| Platform |
-|----------|
-| [Email](mailto:pradeep16@duck.com) |
-| [Telegram](https://t.me/Network_16) |
-| [GitHub](https://github.com/Pradeep-161) |
+| [Email](mailto:pradeep16@duck.com) | | [Telegram](https://t.me/Network_16) | | [GitHub](https://github.com/Pradeep-161) |
 
 
