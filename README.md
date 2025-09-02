@@ -19,5 +19,5 @@ Welcome to the **Free Hacking Books** repository! Here, you'll find a curated li
 | **11. Hash Crack: Password Cracking Manual** | A guide to password cracking techniques and tools, focusing on real-world applications. | [Buy Here](https://www.amazon.com/Hash-Crack-Password-Cracking-Manual/dp/1494295508) |
 | **12. Metasploit: The Penetration Tester's Guide** | This book teaches how to use the Metasploit Framework for penetration testing, covering various exploits and techniques to assess security. | [Buy Here](https://www.amazon.com/Metasploit-Penetration-Testers-Guide/dp/1934356558) |
 | **13. Advanced Penetration Testing** | A guide that covers advanced techniques for penetration testing and security assessments. | [Buy Here](https://www.amazon.com/Advanced-Penetration-Testing-Hands-Guide/dp/1119471203) |
-| **14. Hacking: A Beginner's Guide to Your First Computer Hack** | A beginner-friendly guide that covers the basics of hacking, including tools, techniques, and ethical considerations. | [Buy Here](https://www.amazon.com/Hacking-Beginners-Guide-Your-First/dp/151]
+| **14. Hacking: A Beginner's Guide to Your First Computer Hack** | A beginner-friendly guide that covers the basics of hacking, including tools, techniques, and ethical considerations. | [Buy Here](https://www.amazon.com/Hacking-Beginners-Guide-Your-First/dp/151)
 
