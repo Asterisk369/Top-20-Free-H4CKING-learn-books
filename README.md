@@ -6,8 +6,8 @@ Welcome to the **Free Hacking Books** repository! Here, you'll find a curated li
 
 | Book Title | Description | Link |
 |------------|-------------|------|
-| **1. Web Application Hacker's Handbook** | A comprehensive guide to web application security, covering vulnerabilities and exploitation techniques. | [Read HERE](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Dafydd%20Stuttard,%20Marcus%20Pinto%20-%20The%20web%20application%20hacker's%20handbook_%20finding%20and%20exploiting%20security%20flaws-Wiley%20(2011).pdf). | [Buy Here!!](https://www.amazon.in/Web-Application-Hackers-Handbook-Exploiting-ebook/dp/B005LVQA9S) |
-| **2. The Hackers Playbook 2** | A practical guide that walks through the steps of penetration testing, including real-world scenarios and techniques. | Buy Here!! |
+| **1. Web Application Hacker's Handbook** | A comprehensive guide to web application security, covering vulnerabilities and exploitation techniques. | [Read HERE](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Dafydd%20Stuttard,%20Marcus%20Pinto%20-%20The%20web%20application%20hacker's%20handbook_%20finding%20and%20exploiting%20security%20flaws-Wiley%20(2011).pdf). | 
+| **2. The Hackers Playbook 2** | A practical guide that walks through the steps of penetration testing, including real-world scenarios and techniques. | [Read Here!!]([url](https://someplace-else.neocities.org/books/The%20Hacker%20Playbook%202%20-%20Practical%20Guide%20To%20Penetration%20Testing.pdf)) |
 | **3. Hacking: The Art of Exploitation** | This book provides a comprehensive introduction to hacking techniques, covering programming, networking, and exploitation. | Buy Here!! |
 | **4. Ghost in the Wires** | A memoir by Kevin Mitnick, detailing his life as a hacker and the challenges he faced. | Buy Here!! |
 | **5. Social Engineering: The Art of Human Hacking** | This book delves into the psychological aspects of hacking, focusing on how to manipulate people to gain access to sensitive information. | Buy Here!! |
