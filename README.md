@@ -21,5 +21,9 @@ Welcome to the **Free Hacking Books** repository! Here, you'll find a curated li
 | **13. Advanced Penetration Testing** | A guide that covers advanced techniques for penetration testing and security assessments. | [Read Here!!](https://elhacker.info/manuales/Cybersecurity%20Books/Advanced%20Penetration%20Testing%20-%20Hacking%20the%20World_s%20Most%20Secure%20Networks.pdf) |
 | **14. Hacking: A Beginner's Guide to Your First Computer Hack** | A beginner-friendly guide that covers the basics of hacking, including tools, techniques, and ethical considerations. | [Read Here!!](http://repo.darmajaya.ac.id/3933/1/Hacking_%20Beginner%20to%20Expert%20Guide%20to%20Computer%20Hacking%2C%20Basic%20Security%2C%20and%20Penetration%20Testing%20%28Computer%20Science%20Series%29%20%28%20PDFDrive%20%29%20%281%29.pdf) |
 
-| ** Mastering Termux**               | Mastering Termux Complete (MTC) is your ultimate guide to transforming any Android device into a powerful hacking and automation machine. Designed for beginners and aspiring cybersecurity professionals, this course takes you from basic Linux commands to advanced tools for OSINT, vulnerability scanning, and ethical hacking — all within Termux. | [Read Here!!](https://github.com/Asterisk369) |
+| **Mastering Termux** | Mastering Termux Complete (MTC) is your ultimate guide to transforming any Android device into a powerful hacking and automation machine. Designed for beginners and aspiring cybersecurity professionals, this course takes you from basic Linux commands to advanced tools for OSINT, vulnerability scanning, and ethical hacking — all within Termux. | [Read Here!!](https://github.com/Asterisk369) |
+
+## Conclusion
+
+These resources are invaluable for anyone looking to deepen their understanding of hacking and cybersecurity. Happy reading and hacking! 🚀
 
