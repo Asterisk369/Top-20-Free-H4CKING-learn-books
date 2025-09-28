@@ -20,7 +20,7 @@ Welcome to the **Free Hacking Books** repository! This curated collection featur
 | 12 | **Metasploit: The Penetration Tester's Guide** | Teaches using Metasploit Framework for penetration testing with various exploits | [Download PDF](https://www.kea.nu/files/textbooks/humblesec/metasploit_apenetrationtestersguide.pdf) |
 | 13 | **Advanced Penetration Testing** | Covers advanced techniques for penetration testing and security assessments | [Download PDF](https://elhacker.info/manuales/Cybersecurity%20Books/Advanced%20Penetration%20Testing%20-%20Hacking%20the%20World_s%20Most%20Secure%20Networks.pdf) |
 | 14 | **Hacking: A Beginner's Guide to Your First Computer Hack** | Beginner-friendly guide covering basics of hacking, tools, techniques, and ethics | [Download PDF](http://repo.darmajaya.ac.id/3933/1/Hacking_%20Beginner%20to%20Expert%20Guide%20to%20Computer%20Hacking%2C%20Basic%20Security%2C%20and%20Penetration%20Testing%20%28Computer%20Science%20Series%29%20%28%20PDFDrive%20%29%20%281%29.pdf) |
-| 15 | **Mastering Termux: Android Hacking Guide** | Complete guide to transforming Android devices into hacking and automation machines | [GitHub Repository](https://github.com/Asterisk369) |
+| 15 | **Mastering Termux: Android Hacking Guide** | Complete guide to transforming Android devices into hacking and automation machines | [Download PDF](https://drive.google.com/file/d/1rdPdjSxzSEgITVgMBh-jDGMDYLDzOX37/view?usp=drive_link) |
 
 ## 🛡️ Legal & Ethical Disclaimer
 
