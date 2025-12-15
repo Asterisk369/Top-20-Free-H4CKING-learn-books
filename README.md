@@ -20,8 +20,8 @@ Welcome to the **Free Hacking Books** repository! This curated collection featur
 | 12 | **Metasploit: The Penetration Tester's Guide** | Teaches using Metasploit Framework for penetration testing with various exploits | [Download PDF](https://www.kea.nu/files/textbooks/humblesec/metasploit_apenetrationtestersguide.pdf) |
 | 13 | **Advanced Penetration Testing** | Covers advanced techniques for penetration testing and security assessments | [Download PDF](https://elhacker.info/manuales/Cybersecurity%20Books/Advanced%20Penetration%20Testing%20-%20Hacking%20the%20World_s%20Most%20Secure%20Networks.pdf) |
 | 14 | **Hacking: A Beginner's Guide to Your First Computer Hack** | Beginner-friendly guide covering basics of hacking, tools, techniques, and ethics | [Download PDF](http://repo.darmajaya.ac.id/3933/1/Hacking_%20Beginner%20to%20Expert%20Guide%20to%20Computer%20Hacking%2C%20Basic%20Security%2C%20and%20Penetration%20Testing%20%28Computer%20Science%20Series%29%20%28%20PDFDrive%20%29%20%281%29.pdf) |
-| 15 | **Mastering Termux: Android Hacking Guide** | Complete guide to transforming Android devices into hacking and automation machines | [Download PDF](https://drive.google.com/file/d/1F9w9-JuO0CrbFEmvn8pb45HltiW1CSgE/view?usp=drive_link)|
-
+| 15 | **Mastering Termux: Android Hacking Guide** | Complete guide to transforming Android devices into hacking and automation machines | [Download PDF](https://drive.google.com/file/d/19UOkDMcs9oaLQnujS9NV70FUxGDEQFvj/view?usp=drive_link)|
+| 16 | **Ultimate Kali Linux Book** | Harness Nmap, Metasploit, Aircrack-ng, and Empire for cutting-edge pentesting | [Download PDF](https://drive.google.com/file/d/1aT-8fikycb-IMmYerRcCbEJxAR_JLU0Z/view?usp=drive_link) |
 ## 🛡️ Legal & Ethical Disclaimer
 
 > **Important**: These resources are provided for educational purposes only. Always ensure you have proper authorization before testing any security techniques. Ethical hacking should only be performed in legal environments with explicit permission.
@@ -35,6 +35,7 @@ Welcome to the **Free Hacking Books** repository! This curated collection featur
 - **Penetration Testing** (Books 2, 8, 10, 13)
 - **Beginner Guides** (Books 3, 8, 14)
 - **Mobile Security** (Book 15)
+- **Kali Linux** (Book 16)
 
 ## 🤝 Contributing
 
